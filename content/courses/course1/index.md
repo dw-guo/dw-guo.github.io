@@ -24,4 +24,4 @@ disableAnchoredHeadings: false
 
 ## Course slides
 
-+ Do not circulate without the permission. [Recitation slides](https://youtu.be/3MZeJED2yns).
++ Do not circulate without the permission. [Recitation slides](Econ 400.zip).
