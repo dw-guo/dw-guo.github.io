@@ -1,21 +1,14 @@
 ---
-title: "Give Money or Give Job: Analysis of Industry-Based Poverty Alleviation." 
-
-author: ["Dingwei Guo", "Ruting Huang", "Hanchen Li", "Yuan Zhao"]
-summary: "We study the heterogeneous effects of different types of industry-based poverty alleviation" 
+title: "Several ongoing research"
+summary: "Will be available soon." 
 
 ---
 
 ---
 
 ##### Abstract
-
-Working in progress.
+- Give Money or Give Job: Analysis of Industry-Based Poverty
+- How Does Aid Spill Over? Evidence from Poor County Assistance
+- Labor Market Responses to Agricultural Tax Reform and Intergenerational Consequences
 
 ---
-
----
-
-##### Download
-
-+ Working in progress.
