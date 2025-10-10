@@ -11,4 +11,4 @@ disableAnchoredHeadings: false
 
 #### Course slides
 
-+ Do not circulate without the permission. [Recitation slides](Econ 400.zip).
++ Do not circulate without the permission. <a href="files/data.zip" download="DingweiGuo_Data.zip">Download Dataset</a>.
