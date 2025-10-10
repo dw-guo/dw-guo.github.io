@@ -1,10 +1,7 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "Household Customers’ Cost of Interruption: Survey Study on Summer Electricity Peak of Xi’an City." 
 date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+author: ["Yuan Zhao","Weihua Yu","Dingwei Guo","Xiaoping He"] 
 cover:
     alt: "Some Uses For Olive Oil"
     relative: true
