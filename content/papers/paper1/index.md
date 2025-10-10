@@ -14,35 +14,4 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
-
----
-
-##### Citation
-
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
+In light of China’s Carbon Neutrality Target and facing the fluctuating pressure of power supply brought on by new energy intermittent power generation, it is urgent to mobilize a large number of residential flexible loads that can respond instantaneously to mitigate peak–valley difference. Under a framework of demand-side management (DSM) and utility analysis, we empirically investigate customers’ costs from interrupting typical electrical terminals at the household level. Specifically, by using the contingent valuation method (CVM), we explore the factors that affect households’ Willingness to Accept (WTA) of voluntarily participating in the interruption management during the summer electricity peak and estimate the distribution of households’ WTA values. We find that given the value of WTA, households’ participation rate in the interruption management significantly decreases with the increase in interruption duration and varies with the type of terminal appliance that is on direct interruption management. Moreover, the majority of households are willing to participate in the interruption management even if the compensation amount is low. The factors that determine households’ WTA and the size of their influences vary with the type of electrical terminal. The results imply that differentiating the terminal electricity market and accurately locking on the target terminals by considering the household heterogeneity can reduce the household welfare losses arising from DSM.
