@@ -3,7 +3,7 @@ title: "Teaching Assistant for Econ 410 Intermediate Microeconomics"
 date: 2024-01-01
 
 author: "Dingwei Guo"
-summary: "The recitation slides for Econ 410 Intermediate Microeconomics (intructor: Michelle Sheran-Andrews) at UNC for 2024 Spring." 
+summary: "Econ 410 Intermediate Microeconomics (intructor: Michelle Sheran-Andrews) at UNC for 2024 Spring." 
 showToc: false
 disableAnchoredHeadings: false
 
