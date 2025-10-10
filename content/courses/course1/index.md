@@ -11,4 +11,4 @@ disableAnchoredHeadings: false
 
 #### Course slides
 
-+ Do not circulate without the permission. <a href="files/data.zip" download="DingweiGuo_Data.zip">Download Dataset</a>.
++ Do not circulate without the permission. <a href="content/courses/course1/Econ 400.zip" download="Econ 400.zip">Slides</a>.
