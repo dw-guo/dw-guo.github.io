@@ -18,4 +18,4 @@ This study examines how monetary incentives and prosocial factors jointly influe
 
 ##### Download
 
-+ [Under review by The Energy Journal.]
++ Under review by The Energy Journal. Will be available after review.
