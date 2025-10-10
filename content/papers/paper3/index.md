@@ -1,17 +1,16 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
-cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+title: "Leave or Stay: Impacts of the Poverty Alleviation Resettlement Program in China." 
+date: 2024-09-10
+author: ["Dingwei Guo", "Ruting Huang", "Xiyan Li", "Yuan Zhao"]
+summary: "We study the how poverty alleviation resettlement leads to unintended consequences." 
+
+---
+
+---
+
+##### Abstract
+
+This paper examines how large-scale poverty alleviation resettlement influences household labor allocation and income generation in rural China. We study the Poverty Alleviation Resettlement Program (PARP), which relocates impoverished households from remote mountainous villages to newly built communities closer to urban centers. We propose a theoretical framework where resettlement affects households through two competing mechanisms: a last-mile channel that reduces migration costs and promotes temporary urban work, and a home-attachment channel that improves living amenities, raising both the utility and the costs of staying home. Using a rich panel of all officially registered poor households in the treatment county from 2014 to 2022, we implement the difference-in-differences design to identify program effects. We find that PARP substantially increases total income and migrant wages, driven by shifts of labor from farming to urban employment. However, these gains are highly uneven: households with abundant labor supply experience large increases in migrant work, while labor-constrained households see stagnant or even declining earnings, as higher living costs crowd out their ability to finance migration. These results reveal that resettlement can unintentionally widen inequality among the poor, highlighting the importance of household labor endowments in shaping the welfare impacts of anti-poverty programs.
 
 ---
 
@@ -19,34 +18,4 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
-
----
-
-##### Abstract
-
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
-
----
-
-##### Citation
-
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
++ Under review by Journal of Development Studies. Will be available after review.
