@@ -5,18 +5,10 @@ author: ["Yuan Zhao","Weihua Yu","Dingwei Guo","Xiaoping He"]
 description: "We utilize Contingent Valuation Method to estimate the Willingness to Accept of a Direct Load Control program. Published in the Frontiers in Energy Research, 2022." 
 summary: "We utilize Contingent Valuation Method to estimate the Willingness to Accept of a Direct Load Control program." 
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://doi.org/10.3389/fenrg.2021.802018"
+    Text: "Link for download"
 
 ---
-
----
-
-##### Download
-
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
 
 ---
 
