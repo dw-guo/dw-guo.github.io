@@ -1,6 +1,6 @@
 ---
 title: "When Money Crowds Out Morals: A Study of Demand Side Management Participation." 
-date: 2025
+date: 2025-05-12
 author: ["Dingwei Guo", "Yuan Zhao", "Zihang Zhang"]
 summary: "We apply discrete choice experiment and randomized experiment to analyze the relations between social norms and participation in Direct Load Control programs" 
 
