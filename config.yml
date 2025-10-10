@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Dingwei Guo
-          subtitle: "Hi! I’m Dingwei Guo, a Ph.D. Candidate in Economics at the University of North Carolina at Chapel Hill. My research lies at the intersection of development economics and applied microeconometrics, focused on how public policies affect labor allocation, human capital development, and gender inequality. I also expand my research to the retail elctricity markets. Click on the first icon below for my CV."
+          subtitle: "Hi! I’m Dingwei Guo, a Ph.D. Candidate in Economics at the University of North Carolina at Chapel Hill.<br><br>My research lies at the intersection of development economics and applied microeconometrics, focused on how public policies affect labor allocation, human capital development, and gender inequality. I also expand my research to the retail elctricity markets. Click on the first icon below for my CV."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
