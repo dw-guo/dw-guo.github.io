@@ -11,4 +11,4 @@ disableAnchoredHeadings: false
 
 #### Course slides
 
-+ Do not circulate without the permission.
++ Do not circulate. [Slides](+ [Published Version](https://drive.google.com/file/d/19mdicUGont7Byul3li4W2jpo80ARA4KC/view?usp=share_link))
