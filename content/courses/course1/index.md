@@ -10,6 +10,6 @@ disableAnchoredHeadings: false
 
 ---
 
-## Course slides
+#### Course slides
 
 + Do not circulate without the permission. [Recitation slides](Econ 400.zip).
