@@ -1,6 +1,6 @@
 ---
 title: "Household Customers’ Cost of Interruption: Survey Study on Summer Electricity Peak of Xi’an City." 
-date: 2013-01-15
+date: 2021
 author: ["Yuan Zhao","Weihua Yu","Dingwei Guo","Xiaoping He"] 
 description: "We utilize Contingent Valuation Method to estimate the Willingness to Accept of a Direct Load Control program. Published in the Frontiers in Energy Research, 2022." 
 summary: "We utilize Contingent Valuation Method to estimate the Willingness to Accept of a Direct Load Control program." 
