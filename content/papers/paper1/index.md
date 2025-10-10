@@ -3,9 +3,7 @@ title: "Household Customers’ Cost of Interruption: Survey Study on Summer Elec
 date: 2013-01-15
 author: ["Yuan Zhao","Weihua Yu","Dingwei Guo","Xiaoping He"] 
 description: "We utilize Contingent Valuation Method to estimate the Willingness to Accept of a Direct Load Control program. Published in the Frontiers in Energy Research, 2022." 
-cover:
-    alt: "Some Uses For Olive Oil"
-    relative: true
+summary: "We utilize Contingent Valuation Method to estimate the Willingness to Accept of a Direct Load Control program." 
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Journal of Oleic Science"
