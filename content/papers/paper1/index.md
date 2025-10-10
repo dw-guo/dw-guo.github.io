@@ -17,6 +17,6 @@ In light of China’s Carbon Neutrality Target and facing the fluctuating pressu
 
 ##### Download
 
-+ [Paper](CVM.pdf)
++ [Published Version](CVM.pdf)
 
 ---
