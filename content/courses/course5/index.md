@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Econ 440 Introduction to Economics"
+title: "Teaching Assistant for Econ 440 Analysis of Public Finance"
 date: 2025-09-01
 
 author: "Dingwei Guo"
