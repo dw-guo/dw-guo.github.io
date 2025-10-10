@@ -1,5 +1,5 @@
 ---
-title: "Recitations for Econ 400 Introduction to Statistics and Econometrics"
+title: "Teaching Assistant for Econ 400 Introduction to Statistics and Econometrics"
 date: 2025-01-01
 
 author: "Dingwei Guo"
