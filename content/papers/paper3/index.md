@@ -1,5 +1,5 @@
 ---
-title: "Leave or Stay: Impacts of the Poverty Alleviation Resettlement Program in China." 
+title: "Leave or Stay: Impacts of the Poverty Alleviation Resettlement Program." 
 date: 2024-09-10
 author: ["Dingwei Guo", "Ruting Huang", "Xiyan Li", "Yuan Zhao"]
 summary: "We study the how poverty alleviation resettlement leads to unintended consequences." 
