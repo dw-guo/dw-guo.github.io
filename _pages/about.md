@@ -23,4 +23,8 @@ My research interests focus on **applied microeconomics**, particularly on Labor
 
 **I am on the 2026–2027 job market.** You can reach me at [**dguo@unc.edu**](mailto:dguo@unc.edu).
 
-[Curriculum Vitae](/files/CV.pdf) &nbsp;&nbsp;|&nbsp;&nbsp; [Resume](/files/Resume.pdf) &nbsp;&nbsp;|&nbsp;&nbsp; [Job Market Paper](/files/AgTax.pdf)
+[Curriculum Vitae](/files/CV.pdf)
+
+[Resume](/files/Resume.pdf)
+
+[Job Market Paper](/files/JMP.pdf)
