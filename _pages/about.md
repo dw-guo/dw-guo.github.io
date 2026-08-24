@@ -1,7 +1,7 @@
 ---
 
 permalink: /
-title: "About Me"
+title: "Dingwei Guo"
 author_profile: true
 redirect_from:
 - /about/
@@ -10,7 +10,7 @@ redirect_from:
 ---
 <style>
 .page__content {
-  font-size: 0.80em;
+  font-size: 0.85em;
   line-height: 1.5;
 }
 </style>
