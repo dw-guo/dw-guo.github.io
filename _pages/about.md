@@ -8,8 +8,12 @@ redirect_from:
 - /about.html
 
 ---
-
-# Dingwei Guo
+<style>
+.page__content {
+  font-size: 0.80em;
+  line-height: 1.5;
+}
+</style>
 
 **Welcome to my website!**
 
