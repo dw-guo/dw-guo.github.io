@@ -9,8 +9,12 @@ redirect_from:
 
 <div style="font-size: 0.85em; line-height: 1.5;">
 
-[Curriculum Vitae](/files/CV.pdf)
+  <p style="margin: 0 0 0.5em 0;">
+    <a href="/files/CV.pdf" target="_blank">Curriculum Vitae</a>
+  </p>
 
-[Resume](/files/Resume.pdf)
+  <p style="margin: 0;">
+    <a href="/files/Resume.pdf" target="_blank">Resume</a>
+  </p>
 
 </div>
