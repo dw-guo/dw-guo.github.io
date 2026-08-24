@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Course Title
 
-Heading 1
-======
+**Role:** Teaching Assistant  
+**Institution:** University 1, Department  
+**Term:** Spring 2014  
+**Location:** City, Country  
 
-Heading 2
-======
+Brief description of the course and your teaching responsibilities.
 
-Heading 3
-======
+#### Responsibilities
+- Led discussion sections and office hours
+- Assisted with grading and course administration
+- Provided individual support to students
