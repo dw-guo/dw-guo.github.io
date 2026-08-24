@@ -29,7 +29,7 @@ author:
   bio              : "Ph.D. Candidate in Economics"
   location         : "Chapel Hill, NC, 27599, USA"
   employer         : "UNC Chapel Hill"
-  uri              : # URL
+  #uri              : # URL
   email            : "dingwei.econ@outlook.com" 
 
   # Academic websites
@@ -85,7 +85,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Job Market Paper'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
