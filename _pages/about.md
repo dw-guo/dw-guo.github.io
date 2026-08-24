@@ -14,7 +14,7 @@ redirect_from:
 
 **Welcome to my website!**
 
-I am a Ph.D. candidate in the [Department of Economics at the University of North Carolina at Chapel Hill](https://econ.unc.edu/).
+I am a Ph.D. candidate in the Department of Economics at the University of North Carolina at Chapel Hill.
 
 My research interests focus on **applied microeconomics**, particularly on Labor and Development Economics. My recent work also includes Energy and Environmental Economics.
 
