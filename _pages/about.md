@@ -28,3 +28,5 @@ My research interests focus on **applied microeconomics**, particularly on Labor
 [Resume](/files/Resume.pdf)
 
 [Job Market Paper](/files/AgTax.pdf)
+
+[UNC Job Market Candidates]([/files/AgTax.pdf](https://econ.unc.edu/job-market-candidates/))
