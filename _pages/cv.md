@@ -14,7 +14,7 @@ redirect_from:
   </p>
 
   <p style="margin: 0;">
-    <a href="/files/Resume.pdf" target="_blank">Resume</a>
+    <a href="/files/Resume.pdf" target="_blank">Résumé</a>
   </p>
 
 </div>
