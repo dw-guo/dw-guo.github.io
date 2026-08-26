@@ -25,7 +25,7 @@ My research interests focus on **applied microeconomics**, particularly on Labor
 
 [Curriculum Vitae](/files/CV.pdf)
 
-[Resume](/files/Resume.pdf)
+[Résumé](/files/Resume.pdf)
 
 [Job Market Paper](/files/AgTax.pdf)
 
