@@ -28,3 +28,23 @@
 
 <script data-goatcounter="https://dw-guo.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const today = new Date().toISOString().slice(0, 10);
+
+    fetch(
+      "https://dw-guo.goatcounter.com/counter/TOTAL.json" +
+      "?start=" + today +
+      "&end=" + today
+    )
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById("visitor-count").textContent =
+          "Visitors today: " + data.count;
+      })
+      .catch(() => {
+        document.getElementById("visitor-count").style.display = "none";
+      });
+  });
+</script>
