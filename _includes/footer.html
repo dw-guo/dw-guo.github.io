@@ -11,6 +11,7 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+
     const today = new Intl.DateTimeFormat("en-CA", {
       timeZone: "America/New_York",
       year: "numeric",
@@ -18,25 +19,29 @@
       day: "2-digit"
     }).format(new Date());
 
-    fetch(
+    const url =
       "https://dw-guo.goatcounter.com/counter/TOTAL.json" +
-      "?start=" + today +
-      "&end=" + today
-    )
-      .then(response => {
-        if (!response.ok) throw new Error("Counter request failed");
+      "?start=" + encodeURIComponent(today) +
+      "&end=" + encodeURIComponent(today);
+
+    fetch(url)
+      .then(function(response) {
+        if (!response.ok) {
+          throw new Error("GoatCounter request failed");
+        }
         return response.json();
       })
-      .then(data => {
-        const counter = document.getElementById("visitor-count");
+      .then(function(data) {
+        const el = document.getElementById("visitor-count");
 
         if (data.count !== undefined) {
-          counter.textContent = "Visitors today: " + data.count;
-          counter.style.display = "inline";
+          el.textContent = "Visitors today: " + data.count;
+          el.style.display = "inline";
         }
       })
-      .catch(() => {
-        // If GoatCounter cannot be reached, show nothing.
+      .catch(function(error) {
+        console.log("Visitor counter error:", error);
       });
+
   });
 </script>
