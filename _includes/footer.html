@@ -3,8 +3,40 @@
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} Dingwei Guo<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}<br />
-  <span id="visitor-count">Visitors today: ...</span>
+  <span id="visitor-count" style="display: none;"></span>
 </div>
 
 <script data-goatcounter="https://dw-guo.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const today = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "America/New_York",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit"
+    }).format(new Date());
+
+    fetch(
+      "https://dw-guo.goatcounter.com/counter/TOTAL.json" +
+      "?start=" + today +
+      "&end=" + today
+    )
+      .then(response => {
+        if (!response.ok) throw new Error("Counter request failed");
+        return response.json();
+      })
+      .then(data => {
+        const counter = document.getElementById("visitor-count");
+
+        if (data.count !== undefined) {
+          counter.textContent = "Visitors today: " + data.count;
+          counter.style.display = "inline";
+        }
+      })
+      .catch(() => {
+        // If GoatCounter cannot be reached, show nothing.
+      });
+  });
+</script>
