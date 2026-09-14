@@ -21,7 +21,7 @@ I am a Ph.D. candidate in the Department of Economics at the University of North
 
 My most recent research focuses on Labor and Development Economics, with some additional work on topics in Energy and Environmental Economics.
 
-**I am on the 2026–2027 job market.** You can reach me at [dguo@unc.edu](mailto:dguo@unc.edu) or [dingwei.econ@outlook.com](mailto:dingwei.econ@outlook.com)
+I am on the 2026–2027 job market. You can reach me at [dguo@unc.edu](mailto:dguo@unc.edu) or [dwguo123@outlook.com](mailto:dwguo123@outlook.com)
 
 [Curriculum Vitae](/files/CV.pdf)
 
