@@ -25,6 +25,4 @@ I am on the 2026–2027 job market. You can reach me at [dguo@unc.edu](mailto:dg
 
 [Curriculum Vitae](/files/CV.pdf)
 
-[Résumé](/files/Resume.pdf)
-
 [UNC Job Market Candidates](https://econ.unc.edu/job-market-candidates/)
